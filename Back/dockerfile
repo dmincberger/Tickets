@@ -1,0 +1,21 @@
+FROM node:18
+
+WORKDIR /Back
+
+COPY package*.json ./
+
+RUN npm install
+
+COPY . .
+
+ENV PORT=3001
+
+EXPOSE 3001
+
+WORKDIR /Back/src
+
+
+ENTRYPOINT [ "npx" ]
+
+CMD [ "ts-node", "index.ts" ]
+
