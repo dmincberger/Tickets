@@ -1,7 +1,7 @@
 [
-    {"done":false,"name":"Sakon","surname":"Myass","pietro":"parter","sala":44,"problem":"My ass tingles","powaga":2},
-    {"done":false,"name":"Sakon","surname":"Deeznuts","pietro":"lv2","sala":222,"problem":"Computer","powaga":2},
-    {"done":true,"name":"Sakon","surname":"Mydick","pietro":"int2","sala":304,"problem":"My vape is gone","powaga":1},
-    {"done":false,"name":"Adam","surname":"Adamczyk","pietro":"lv1","sala":111,"problem":"My tummy tingles","powaga":0},
-    {"done":false,"name":"Jan","surname":"Kowalski","pietro":"pracParter","sala":507,"problem":"My dick tingles","powaga":1}
+    {"done":false,"name":"Jan","surname":"Nowak","pietro":"parter","sala":44,"problem":"Komputer nie uruchamia się","powaga":2},
+    {"done":false,"name":"Anna","surname":"Kowalska","pietro":"lv2","sala":222,"problem":"Monitor nie wyświetla obrazu","powaga":2},
+    {"done":true,"name":"Piotr","surname":"Wiśniewski","pietro":"int2","sala":304,"problem":"Brak połączenia z internetem","powaga":1},
+    {"done":false,"name":"Adam","surname":"Adamczyk","pietro":"lv1","sala":111,"problem":"Klawiatura wymaga wymiany","powaga":0},
+    {"done":false,"name":"Jan","surname":"Kowalski","pietro":"pracParter","sala":507,"problem":"Drukarka nie drukuje dokumentów","powaga":1}
 ]

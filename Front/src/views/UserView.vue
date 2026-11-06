@@ -57,7 +57,7 @@ export default {
 
       let isValid = this.ticket.isValid();
       if(!isValid){
-        // obraź użytkownika słownie
+        // Poinformuj użytkownika o niepoprawnie wypełnionych polach.
 
         alert("niepoprawnie wypełnione pola")
       }
